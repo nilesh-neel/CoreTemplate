@@ -1,0 +1,24 @@
+{
+  "name": "northwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coreui/coreui": "github:coreui/coreui",
+    "@coreui/icons": "^0.3.0",
+    "bootstrap": "^4.1.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "perfect-scrollbar": "^1.4.0",
+    "popper.js": "^1.14.3",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
